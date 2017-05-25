@@ -6,9 +6,9 @@ This README outlines the details of collaborating on this Glimmer application.
 
 To submit a site suggestion, [open an issue](https://github.com/gordonbisnor/built-with-spaghetti/issues/new) or [create a pull request](https://github.com/gordonbisnor/built-with-spaghetti/issues/new). Pull requests will be given higher priority since they are easier to include.
 
-# Make sure the screenshot is 1000×625
-# Run the screenshot through an image optimizer such as ImageOptim  
-# Double check that everything works and looks as expected before submitting
+* Make sure the screenshot is 1000×625
+* Run the screenshot through an image optimizer such as ImageOptim  
+* Double check that everything works and looks as expected before submitting
 
 ## Prerequisites
 
