@@ -8,8 +8,8 @@ To submit a site suggestion, [open an issue](https://github.com/gordonbisnor/bui
 
 * Make sure the screenshot is 1000×625
 * Run the screenshot through an image optimizer such as ImageOptim  
-* Add data in src/ui/components/built-with-spaghetti/component.ts in the following format, incrementing the id based on the last entry
-
+* Add data in src/ui/components/built-with-spaghetti/component.ts in the following format, incrementing the id based on the last entry:
+```
     {
       id: 1,
       title: "zc2 gowrth of gor",
@@ -17,6 +17,7 @@ To submit a site suggestion, [open an issue](https://github.com/gordonbisnor/bui
       url: "http://vkhpulkxol.s3-website-us-east-1.amazonaws.com/",
       img: "1.jpg"
     }
+```
 
 * Add your image to the public/ folder in the format{id}.jpg
 * Double check that everything works and looks as expected before submitting
