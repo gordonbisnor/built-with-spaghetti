@@ -1,6 +1,6 @@
 # built-with-spaghetti
 
-This README outlines the details of collaborating on this Glimmer application.
+Built with Spaghetti aims to function as a gateway to web art / non-commercial and subversive experiments in web weirdness / experimentation with the language and technology of web / etc
 
 ## How to submit
 
