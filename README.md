@@ -1,4 +1,4 @@
-# built-with-spaghetti
+# Built with Spaghetti
 
 Built with Spaghetti aims to function as a gateway to web art / non-commercial and subversive experiments in web weirdness / experimentation with the language and technology of web / etc
 
