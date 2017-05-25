@@ -1,3 +1,16 @@
-h1 {
-  color: #444;
+* {
+  font-family: 'Inconsolata', monospace;
+}
+ul.items {
+  li {
+    border-top: 1px solid #DDD;
+    &:first-child {
+      border-top: 0;
+      padding-top: 0;
+    }
+  }
+  .item-image {
+    border: 1px solid #DDD;
+    border-radius: 3px;
+  }
 }

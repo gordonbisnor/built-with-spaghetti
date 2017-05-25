@@ -1,3 +1,24 @@
-<div>
-  <h1>Welcome to Glimmer!</h1>
-</div>
+<section class="container pa4">
+  <aside class="fl w-20-l">
+    <div class="pa3">
+      <div class="mb3">Built with Spaghetti</div>
+      <img src="food-dinner-pasta-spaghetti-8500.jpg"/>
+      <div class="lh-copy mt3">Built with Spaghetti aims to function as a gateway to web art / non-commercial and subversive experiments in web weirdness / experimentation with the language and technology of web / etc </div>
+      <h2>How to Submit</h2>
+      <div class="lh-copy">Submit a pull request or post an issue to the Github repo. Include a screenshot.</div>
+    </div>
+  </aside>
+  <main class="fl w-80-l">
+    <ul class="pa3 list pl5 pt0 items">
+      {{#each items key="@index" as |item|}}
+        <li class="mb3 pt4 pb4">
+          <h2 class="mt0"><a href="{{item.url}}" target="_blank" rel="noreferrer  noopener">{{item.title}}</a></h2>
+          <div class="mt2">{{item.description}}</div>
+          <a href="{{item.url}}" target="_blank" rel="noreferrer  noopener">
+            <img src="{{item.img}}" alt="{{item.title}}" class="db mt3 item-image"/>
+          </a>
+        </li>
+      {{/each}}
+    </ul>
+  </main>
+</section>
