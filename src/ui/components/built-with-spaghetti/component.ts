@@ -3,14 +3,24 @@ import Component from "@glimmer/component";
 export default class BuiltWithSpaghetti extends Component {
 
   items = [
+
    
     {
-      id: 3,
-      title: "mvi0246",
-      description: "mvi0246",
+      id: 4,
+      title: "gsnikmkguf",
+      description: "gsnikmkguf",
       url: "http://gsnikmkguf.s3-website-us-east-1.amazonaws.com/",
+      img: "4.jpg"
+    },
+
+    {
+      id: 3,
+      title: "white kont roll",
+      description: "white kont roll",
+      url: "http://white-kont-roll.s3-website-us-east-1.amazonaws.com/",
       img: "3.jpg"
     },
+
     {
       id: 2,
       title: "fast steve reich",
