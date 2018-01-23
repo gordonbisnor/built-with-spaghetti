@@ -10,7 +10,7 @@ export default class BuiltWithSpaghetti extends Component {
       title: "gsnikmkguf",
       description: "gsnikmkguf",
       url: "http://gsnikmkguf.s3-website-us-east-1.amazonaws.com/",
-      img: "4.jpg"
+      img: "4x.jpg"
     },
 
     {
