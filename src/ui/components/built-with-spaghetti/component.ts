@@ -6,7 +6,7 @@ export default class BuiltWithSpaghetti extends Component {
    
     {
       id: 3,
-      title: "mvi0246"
+      title: "mvi0246",
       description: "mvi0246",
       url: "http://gsnikmkguf.s3-website-us-east-1.amazonaws.com/",
       img: "3.jpg"
